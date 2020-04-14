@@ -6,3 +6,4 @@ Creating a new branch is quick
 fuck gyr & fuck gl
 >>>>>>> dev
 fuck zxy
+bug
