@@ -5,3 +5,4 @@ Creating a new branch is quick
 <<<<<<< HEAD
 fuck gyr & fuck gl
 >>>>>>> dev
+fix bug 
